@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=comet-azure&label=Profile%20views&color=0e75b6&style=flat" alt="comet-azure" /> </p>
 🔭 I’m currently working on [my Github page](https://github.com/comet-azure/comet-azure.github.io)
 
-🌱 I’m currently learning **Java**
+🌱 I’m currently learning **JavaScript**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
